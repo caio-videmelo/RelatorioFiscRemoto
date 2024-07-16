@@ -42,6 +42,30 @@ Execute o script Python para reproduzir a análise e visualizações:
 
 python main.py
 
+## Resultados
+
+### Interpretação dos resultados obtidos
+
+#### Número de Fiscalizações Remotas
+
+O número médio de fiscalizações remotas por Subsedes foi de aproximadamente 3.1, com uma variação de 1 a 6 fiscalizações. Isso indica uma atividade significativa de monitoramento e supervisão em várias regiões. O número mediano de fiscalizações remotas por Subsedes foi de 3, indicando que metade das Subsedes realizaram 3 fiscalizações remotas ou menos.
+
+#### Economia Financeira
+
+A economia financeira média obtida foi de aproximadamente R$ 2.667 por Subsede. No entanto, é importante notar que os valores variaram consideravelmente, com a menor economia registrada sendo R$ 324,46 e a maior alcançando R$ 11.482,34. A mediana da economia financeira obtida foi de aproximadamente R$ 1.294 por Subsede. Isso significa que metade das Subsedes alcançou economias financeiras iguais ou inferiores a esse valor. A mediana é calculada encontrando o valor central dos dados ordenados, o que a torna uma medida robusta em presença de valores extremos.
+
+#### Economia de Tempo
+
+As fiscalizações remotas resultaram em uma economia média de tempo de aproximadamente 9 horas e 39 minutos por Subsede. Os tempos economizados variaram de 1 hora e 30 minutos a 35 horas e 10 minutos, refletindo diferentes níveis de eficiência e impacto das fiscalizações remotas nas diversas Subsedes. As fiscalizações remotas resultaram em uma economia mediana de tempo de aproximadamente 5 horas e 40 minutos economizados em cada região.
+
+#### Análise Descritiva
+
+A análise descritiva dos dados revelou que, em média, as Subsedes realizaram aproximadamente 3 fiscalizações remotas, obtiveram uma economia financeira de R$ 2.667 e economizaram cerca de 9 horas e 39 minutos. Os desvios padrão indicam que os dados estão dispersos em relação às médias, sugerindo variações significativas entre as Subsedes.
+
+#### Considerações Finais
+
+Este relatório destaca os benefícios substanciais das fiscalizações remotas em termos de eficiência operacional e economia de recursos, embora os resultados possam variar consideravelmente entre as diferentes regiões analisadas. Tais insights são fundamentais para aprimorar estratégias de fiscalização e alocação de recursos, visando otimizar os resultados em todas as Subsedes.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se deseja melhorar este projeto, siga estes passos:
