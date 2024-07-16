@@ -1,3 +1,5 @@
+pip install matplotlib
+
 import matplotlib.pyplot as plt
 
 # Dados
