@@ -1,7 +1,6 @@
-pip install matplotlib
-
+import pip
+pip.main(['install', 'matplotlib'])
 import matplotlib.pyplot as plt
-
 # Dados
 subsedes = ["Alto-Tiete", "Assis", "Baixada", "Bauru", "Campinas", "Sorocaba", "Metropolitana", "Grande-ABC", "Ribeirao-Preto", "SJRP", "Vale"]
 numero_fisc_rem = [2, 6, 3, 1, 2, 4, 3, 5, 2, 3, 3]
