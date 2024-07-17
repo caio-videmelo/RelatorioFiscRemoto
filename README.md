@@ -36,12 +36,16 @@ https://github.com/caio-videmelo/RelatorioFiscRemoto/
 ### Instale as dependências:
 
 pip install -r requirements.txt
+pip install matplotlib
+pip install pandas
 
 ## Execução
 
 Execute o script Python para reproduzir a análise e visualizações:
 
 python main.py
+
+python graficos.py
 
 ## Resultados
 
