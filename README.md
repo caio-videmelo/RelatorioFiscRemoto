@@ -58,6 +58,10 @@ A economia financeira média obtida foi de aproximadamente R$ 2.667 por Subsede.
 
 As fiscalizações remotas resultaram em uma economia média de tempo de aproximadamente 9 horas e 39 minutos por Subsede. Os tempos economizados variaram de 1 hora e 30 minutos a 35 horas e 10 minutos, refletindo diferentes níveis de eficiência e impacto das fiscalizações remotas nas diversas Subsedes. As fiscalizações remotas resultaram em uma economia mediana de tempo de aproximadamente 5 horas e 40 minutos economizados em cada região.
 
+![Figure_1](https://github.com/user-attachments/assets/e5a85696-dbba-4852-af32-bef3f5d051bc)
+![Figure_2](https://github.com/user-attachments/assets/45437b52-490f-46ee-be11-dd273cd2217c)
+![Figure_3](https://github.com/user-attachments/assets/c2d5fa0e-583b-416c-b6e8-c18a4d3005df)
+
 #### Análise Descritiva
 
 A análise descritiva dos dados revelou que, em média, as Subsedes realizaram aproximadamente 3 fiscalizações remotas, obtiveram uma economia financeira de R$ 2.667 e economizaram cerca de 9 horas e 39 minutos. Os desvios padrão indicam que os dados estão dispersos em relação às médias, sugerindo variações significativas entre as Subsedes.
