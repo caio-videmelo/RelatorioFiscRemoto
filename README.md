@@ -25,6 +25,7 @@ Pré-requisitos:
 
 1. Python 3.x
 2. Pandas
+3. matplotlib
 
 ## Instalação
 
